@@ -181,3 +181,17 @@ input {
   }
 }
 
+.checkbox {
+  margin-top: -10px;
+  margin-bottom: 10px;
+  margin-left: 100px;
+  span {
+    margin-left: 10px;
+    font-weight: normal;
+  }
+}
+
+#session_rememeber_me {
+  width: auto;
+  margin-left: 20;
+}
